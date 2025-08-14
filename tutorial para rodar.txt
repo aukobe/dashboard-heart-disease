@@ -1,0 +1,5 @@
+Para rodar a aplicação:
+
+Inserir no terminal -> .\.venv\Scripts\activate
+
+Rodar o código 'main.py' e esperar um pouco, depois será liberado o link da aplicação
